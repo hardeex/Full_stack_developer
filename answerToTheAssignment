@@ -1,0 +1,24 @@
+
+QUESTION: Explain what you understand by a full stack developer and mention some tools and languages full stack developer uses
+
+ANSWER:
+
+A full stack developer is a software  developer with both the skills of front-end and backend development. A full end developer
+can perform the operations of a front-end and back-end developer and posses broad programming skills such as HTML, CSS, Javascript,
+Node.js,andular, typescript, Phython, Java, C, and some JavaScript and PHP frameworks.
+
+A full stack developer must have high problem solving skills, make database querries for data manipulation, good at debugging,
+conversant with collaboration platforms like git or gitlab, possess the ability to work with diverse team and must be able to
+explain his code with no difficulty.
+
+A front-end developer designs the user interface of websites or softwares, that is what the user interacts with. a backend deals with data 
+manipulation and every other things that is is happening behind the user interface. A full stack developer can do both.
+
+Some of the basic tools a full stack developer uses are:
+Google
+Computer
+Text editor like VS code, sublime, atom etc
+online resources like stackoverflow
+Github
+etc.
+
